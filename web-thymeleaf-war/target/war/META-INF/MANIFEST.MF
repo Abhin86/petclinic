@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.9.4
+Built-By: root
+Build-Jdk: 11.0.18-ea
+Implementation-Title: Spring Boot Web Thymeleaf Example
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/web-thymeleaf-war
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.mkyong.StartWebApplication
+Spring-Boot-Version: 2.1.2.RELEASE
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+
